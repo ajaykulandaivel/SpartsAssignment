@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  input::placeholder {
+    color: #888;
+  }
+  
+  input:focus {
+    outline: none;
+    border-color: #4A90E2;
+  }
